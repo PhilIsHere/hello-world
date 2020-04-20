@@ -1,0 +1,6 @@
+public static void main(String[] args) {
+  class SendHelpPls extends Parent implements Interface {
+    System.out.print("I have no Idea what I'm doing");
+
+  }
+}
